@@ -9,11 +9,11 @@
 
 #### Checkout code
 ```
-git clone https://github.com/yantrashala/mandrake-nlp.git
+git clone https://github.com/yantrashala/mandrake-flow.git
 ```
 #### Build Mandrake
 ```
-cd mandrake-nlp
+cd mandrake-flow
 docker-compose build
 ```
 
