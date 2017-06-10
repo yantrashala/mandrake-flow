@@ -1,0 +1,18 @@
+version: '2'
+services:
+
+  mandrake-flow:
+    user: root
+    build: .
+    image: yantrashala/mandrake-flow
+    restart: always
+    ports:
+      - "9000:9000"
+    container_name: mandrake-flow
+    environment:
+      - SERVICE_NAME=mandrake-flow
+    volumes:
+       - "./data:/home/mandrake-ai/data"
+    environment:
+      - SERVICE_NAME=mandrake-flow
+    command: ["npm", "start"]
