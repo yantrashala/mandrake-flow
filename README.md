@@ -27,4 +27,4 @@ docker-compose up -d
 http://localhost:9000/flow
 ```
 ## Contributing to Yantrashala/mandrake.ai
-[Contributing & Code of Conduct](CONTRIBUTING.MD)
+[Contributing & Code of Conduct](CONTRIBUTING.md)
