@@ -1,6 +1,6 @@
 {
   "name": "mandrake-flow",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Open Source Chatbot Platform",
   "homepage": "https://github.com/yantrashala/mandrake-flow.git#readme",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/yantrashala/mandrake-flow.git"
   },
   "keywords": [],
-  "author": "Siddhartha Lahiri",
+  "author": "Siddhartha Lahiri <siddhartha.lahiri@gmail.com> (https://github.com/yantrashala)",
   "contributors": [],
   "license": "Apache-2.0",
   "bugs": {
